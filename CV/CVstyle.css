@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+#CVstyle{
+    color: white;
+    text-align:center;
+    font-family: Segoe print;
+}
+
+.headings{
+    text-decoration: underline;
+    color: lightgreen;
+    margin: 5px 40px;
+}
+
+#objective{
+    color: red;
+    margin: 5px 40px;
+    font-size: 17px;
+}
+
+#personalInfo{
+    color: yellow;
+    margin: 5px 40px;
+    font-size: 17px;
+}
+#education{
+    color: aqua;
+    margin: 5px 40px;
+    font-size: 17px;
+}
