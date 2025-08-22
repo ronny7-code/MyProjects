@@ -1,6 +1,12 @@
 body{
     background-color: black;
 }
+#profileImage{
+    float: left;
+    margin: 0px 20px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
 
 #CVstyle{
     color: white;
@@ -11,22 +17,22 @@ body{
 .headings{
     text-decoration: underline;
     color: lightgreen;
-    margin: 5px 40px;
+    margin: 5px 100px;
 }
 
 #objective{
     color: red;
-    margin: 5px 40px;
+    margin: 5px 100px;
     font-size: 17px;
 }
 
 #personalInfo{
     color: yellow;
-    margin: 5px 40px;
+    margin: 5px 100px;
     font-size: 17px;
 }
 #education{
     color: aqua;
-    margin: 5px 40px;
+    margin: 5px 100px;
     font-size: 17px;
 }
